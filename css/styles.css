@@ -1,0 +1,41 @@
+/* header */
+.header{
+  padding-bottom: 10%;
+}
+ .content{
+  background-color: #142850;
+  background-image:url('corona.jpg');
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  background-size:cover;
+  color: #fff;
+}
+/* description  */
+.description{
+  text-align: center;
+  padding: 5% 10%;
+  font-size: 2rem;
+  font-family: 'Roboto', sans-serif;
+}
+/* images */
+.img{
+  border-radius: 100%;
+  width: 100%;
+  height: 100%;
+  margin: 2% 5%;
+  padding:5% 0;
+}
+/* thankyou heading */
+h1{
+  font-family: 'Black Ops One', cursive;
+  font-size: 5rem;
+  font-weight:400;
+  text-align: center;
+  padding: 5% 0;
+}
+/* footer */
+.footer{
+  background-color: #0f4c75;
+  color: #eee;
+  font-size: 1rem;
+}
